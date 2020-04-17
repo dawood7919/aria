@@ -1,7 +1,7 @@
 module.exports = Object.freeze({
   TOKEN: '1209708690:AAE-qx3-zeXteyNHZT25H65R01Zws3597ek',
   ARIA_SECRET: 'eslam_dawood',
-  ARIA_DOWNLOAD_LOCATION: '/root/Dropbox1/aria2',
+  ARIA_DOWNLOAD_LOCATION: '/home/dawood/aria2',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
   ARIA_FILTERED_DOMAINS: ['yts', 'YTS', 'cruzing.xyz', 'eztv.ag', 'YIFY'], // Prevent downloading from URLs containing these substrings
   ARIA_FILTERED_FILENAMES: ['YIFY'], // Files/top level directories with these substrings in the filename won't be downloaded
